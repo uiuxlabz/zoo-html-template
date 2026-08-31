@@ -6,6 +6,10 @@ Open `index.html` to explore the live demo.
 
 ---
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## Design System
 
 | Token | Value | Role |
